@@ -1,8 +1,8 @@
 # Recording
 
-There are words to be heared, people to be remarked.
+There are words to be heard, individuals to be remarked.
 
-Recording history is creating future.
+For the sake of our future, please record history.
 
 
 //Was die Erfahrung aber und die Geschichte lehren,ist dieses,dass Völker und Regierungen niemals etwas aus der Geschichte gelernt und nach Lehren die aus derselben zu ziehen gewesen wä.//
