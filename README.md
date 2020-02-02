@@ -10,6 +10,10 @@ UPDATED 02-02-20
 --
 
 <figure>
+<a><img src="{{site.url}}/img/365F471B5B3CF602B801BDEFAF6112C1.png"></a>
+</figure>
+
+<figure>
 <a><img src="{{site.url}}/img/QQ图片20200202162905.jpg"></a>
 </figure>
 
