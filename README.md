@@ -14,15 +14,15 @@ UPDATED 02-02-20
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/QQ图片20200202162905.jpg"></a>
-</figure>
-
-<figure>
 <a><img src="{{site.url}}/img/QQ图片20200202162908.jpg"></a>
 </figure>
 
 <figure>
 <a><img src="{{site.url}}/img/QQ图片20200202162911.jpg"></a>
+</figure>
+
+<figure>
+<a><img src="{{site.url}}/img/QQ图片20200202162905.jpg"></a>
 </figure>
 
 <figure>
