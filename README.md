@@ -11,7 +11,8 @@ G.W.F. HEGEL
 //What history taught us is that peoples and governments have never learnt anything from it.//
 G.W.F. HEGEL
 
-UPDATED 02-02-20
+# UPDATED 02-02-20
+
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162905.jpg)
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162908.jpg)
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162911.jpg)
