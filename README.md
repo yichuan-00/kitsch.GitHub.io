@@ -13,6 +13,10 @@ G.W.F. HEGEL
 
 # UPDATED 02-02-20
 
+<figure>
+<a><img src="{{site.url}}/img/QQ图片20200202162905.jpg"></a>
+</figure>
+
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162905.jpg)
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162908.jpg)
 ![image](https://github.com/yichuan-00/kitsch.GitHub.io/blob/master/img/QQ图片20200202162911.jpg)
