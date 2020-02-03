@@ -6,6 +6,25 @@ G.W.F. HEGEL
 //What history taught us is that peoples and governments have never learnt anything from it.//
 G.W.F. HEGEL
 
+UPDATED 03-02-20
+----
+
+<figure>
+<a><img src="{{site.url}}/img/IMG_3070(20200203-222829)).JPG"></a>
+</figure>
+
+<figure>
+<a><img src="{{site.url}}/img/IMG_3069(20200203-222605).JPG"></a>
+</figure>
+
+<figure>
+<a><img src="{{site.url}}/img/IMG_3068(20200203-222601).JPG"></a>
+</figure>
+
+<figure>
+<a><img src="{{site.url}}/img/IMG_3067(20200203-222552).JPG"></a>
+</figure>
+
 UPDATED 02-02-20
 --
 
