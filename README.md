@@ -14,6 +14,10 @@ UPDATED 03-02-20
 </figure>
 
 <figure>
+<a><img src="{{site.url}}/img/IMG_3074(20200203-225109).JPG"></a>
+</figure>
+
+<figure>
 <a><img src="{{site.url}}/img/IMG_3069(20200203-222605).JPG"></a>
 </figure>
 
