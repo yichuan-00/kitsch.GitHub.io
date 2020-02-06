@@ -10,27 +10,27 @@ UPDATED 05-02-20
 ----
 
 <figure>
-<a><img src="{{site.url}}/img/2E55CF83394773396B988C7A85625B18.png"></a>
+<a><img src="{{site.url}}/2E55CF83394773396B988C7A85625B18.png"></a>
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/51A47612FB7F71764A1074048580E9A7.png"></a>
+<a><img src="{{site.url}}/51A47612FB7F71764A1074048580E9A7.png"></a>
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/640AECA36D85B7F9C75E933526FF62DF.png"></a>
+<a><img src="{{site.url}}/640AECA36D85B7F9C75E933526FF62DF.png"></a>
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/A4D40F1BC17CB25C2CBC7978B00B07A2.png"></a>
+<a><img src="{{site.url}}/A4D40F1BC17CB25C2CBC7978B00B07A2.png"></a>
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/E2E4588BC1FC999C1CF682F859C59E4F.png"></a>
+<a><img src="{{site.url}}/E2E4588BC1FC999C1CF682F859C59E4F.png"></a>
 </figure>
 
 <figure>
-<a><img src="{{site.url}}/img/E73607215ABBEAD0803AF574088D773C.png"></a>
+<a><img src="{{site.url}}/E73607215ABBEAD0803AF574088D773C.png"></a>
 </figure>
 
 UPDATED 04-02-20
